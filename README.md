@@ -18,8 +18,10 @@ A customized Mathematical Fundamentals Curriculum for ML
 
 6. Calculus ML Cheat Sheet - https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html 🛑
 
-7. 3 Blue 1 Brown - [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🔄
+7. Matrix Computations http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf 🛑
 
-8. Brilliant App - [https://itunes.apple.com/us/app/brilliant-solve-learn-grow/id913335252?mt=8](https://itunes.apple.com/us/app/brilliant-solve-learn-grow/id913335252?mt=8) 🔄
+8. 3 Blue 1 Brown - [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🔄
 
-9. A few useful things to know about Machine Learning - [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) 🛑
+9. Brilliant App - [https://itunes.apple.com/us/app/brilliant-solve-learn-grow/id913335252?mt=8](https://itunes.apple.com/us/app/brilliant-solve-learn-grow/id913335252?mt=8) 🔄
+
+10. A few useful things to know about Machine Learning - [https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) 🛑
