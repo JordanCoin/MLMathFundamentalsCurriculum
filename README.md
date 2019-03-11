@@ -5,7 +5,7 @@ A customized Mathematical Fundamentals Curriculum for ML
 
 ### Content
 
-1. Algebra basics - https://www.khanacademy.org/math/algebra-basics  🔄
+1. Algebra basics (Foundations) - https://www.khanacademy.org/math/algebra-basics  🔄
 
 2. Fundamentals of Mathematics - https://florida.theorangegrove.org/og/file/a9d0bdc1-46bd-4f52-8fed-15e00d68d68c/1/fundamental_math.pdf 🛑
 
